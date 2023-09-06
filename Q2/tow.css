@@ -1,0 +1,25 @@
+.container-fluid {
+  width: 800px;
+  height: auto;
+}
+.img-weight {
+  width: 30px;
+  height: 30px;
+}
+
+.form-control {
+  outline: none;
+}
+.img-height {
+  width: 30px;
+  height: 30px;
+}
+.weight {
+  outline: none;
+}
+.height {
+  outline: none;
+}
+.result {
+  height: 40px;
+}
